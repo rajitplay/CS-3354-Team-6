@@ -12,3 +12,14 @@ Drafted Section 1.4 (References) in the shared doc.
 
 10/17/2026 8:05 PM | Abhishek Vemuri
 Drafted Section 5 (Open Questions) in the shared document using AI assistance for sentence formation based on my own ideas. Reviewed and edited the final content myself.
+
+10/17/2026 8:34 PM  Steven Law
+- Set up repository structure: README.md, docs/team-plan.md, docs/ai-use-log.md, docs/elicitation/, src/
+- Section 3.1: added FR-01 and FR-06 to FR-11; added sources and acceptance criteria to FR-02 to FR-05
+- Section 3.2: quality requirements QR-01 to QR-06
+- Section 3.3: constraint requirements CON-01 to CON-03
+- Section 3.4: use case diagram (UC-01 to UC-05, Take Payment) and expanded use cases UC-03 Reserve and Pay, UC-04 Confirm Handoff
+- Section 3.5: requirements-to-use-case traceability matrix and findings
+- Section 4.1: team member names and my role (Analyst, Designer)
+- Section 4.3: risks R1 to R5 with owners and mitigations
+- Repository URL on cover page and in Section 4.4

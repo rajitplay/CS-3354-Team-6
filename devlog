@@ -13,6 +13,9 @@ Drafted Section 1.4 (References) in the shared doc.
 10/17/2026 8:05 PM | Abhishek Vemuri
 Drafted Section 5 (Open Questions) in the shared document using AI assistance for sentence formation based on my own ideas. Reviewed and edited the final content myself.
 
+10/17/2026 8:20 PM Abran Garcia
+Wrote requirements FR-01 through FR-05 in section 3.1
+
 10/17/2026 8:34 PM  Steven Law
 - Set up repository structure: README.md, docs/team-plan.md, docs/ai-use-log.md, docs/elicitation/, src/
 - Section 3.1: added FR-01 and FR-06 to FR-11; added sources and acceptance criteria to FR-02 to FR-05
@@ -32,3 +35,6 @@ Wrote role in Section 4.1
 
 10/18/2026 7:47 PM Rajit Ravindran
 Removed the help boxes from the proposal
+
+10/18/2026 9:20 PM Abran Garcia
+Removed help boxes and fixed typos

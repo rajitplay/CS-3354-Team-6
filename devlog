@@ -38,3 +38,13 @@ Removed the help boxes from the proposal
 
 10/18/2026 9:20 PM Abran Garcia
 Removed help boxes and fixed typos
+
+10/18/2026 10:48 PM  Steven Law
+- Section 4.4: added access, branch, commit, issue and repository layout conventions
+- Section 4.5: added my AI tool use row
+- Section 0.1: rewrote my row to match the team format
+- Section 4.3: fixed the R1 mitigation text
+- Sections 3.2 and 3.3: removed leftover notes from QR-04 and CON-02; CON-02 now says six-person team
+- Sections 3.4 and 3.5: removed the template instruction line, numbered Take Payment as UC-06 in the diagram and matrix, removed Seller from UC-03 supporting actors
+- Section 5: changed the Q3 assumption to match FR-01 and CON-01
+- docs/ai-use-log.md: logged my AI tool use

@@ -139,8 +139,8 @@ Review the remaining P2 sections, confirm that all required diagrams and contrib
 11/8/2026 7:09 AM  Abhishek Vemuri
 Wrote the S-01 spike README for Section 8 (PR #1, commit 6bec469), documenting the Stripe payment feasibility spike.
 
-11/8/2026 8:05 PM  Abhishek Vemuri
+11/8/2026 11:05 PM  Abhishek Vemuri
 Added the measurement method and the ADR-02 link to the S-01 README, with AI assistance (Claude); reviewed and edited by me.
 
 11/8/2026 11:10 PM  Abhishek Vemuri
-Reviewed Section 7.1 (ADR-01 to ADR-03) for errors, with AI assistance (Claude); reported the fixes needed in issue #1.
+Reviewed Section 7.1 (ADR-01 to ADR-03) for errors, with AI assistance (Claude); reported the fixes needed in issue #__.
